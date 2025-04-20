@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Gitignore.Cli/Gitignore.Cli.csproj" />
+  </Folder>
+</Solution>
